@@ -1,0 +1,8 @@
+# Option A - exe (no python needed)
+Download STEAMFORGE.exe from Releases -> double click
+
+# Option B - python
+git clone https://github.com/YOURUSERNAME/steamforge.git
+cd steamforge
+pip install -r requirements.txt
+python client.py
